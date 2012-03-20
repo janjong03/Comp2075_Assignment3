@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<!--Source: http://msdn.microsoft.com/en-us/library/ms762271%28VS.85%29.aspx -->
+<catalog>
+  <company companyName="Google">
+    <Location>1600 Amphitheatre Parkway Mountain View CA 94043w</Location>
+    <StockPrice>624.77</StockPrice>
+    <AnnualPrice>37,905</AnnualPrice>
+    <AvgWeeklyPrice>50,60,70,11,50,66</AvgWeeklyPrice>
+    <type>Technology</type>
+
+  </company>
+  <company companyName="Yahoo">
+    <Location>701 First Avenue 701 First Avenue SUNNYVALE, CA 94089 United States</Location>
+    <StockPrice>15.15</StockPrice>
+    <AnnualPrice>1</AnnualPrice>
+    <AvgWeeklyPrice></AvgWeeklyPrice>
+    <type>Technology</type>
+  </company>
+  
+  <company companyName="Apple">
+    <Location>1 Infinite Loop 1 Infinite Loop CUPERTINO, CA 95014 United States</Location>
+    <StockPrice>584.66</StockPrice>
+    <AnnualPrice>1</AnnualPrice>
+    <AvgWeeklyPrice></AvgWeeklyPrice>
+    <type>Technology</type>
+  </company>
+  
+  <company companyName="Suncor Energy Inc">
+    <Location>150 - 6 Avenue S.W. P.O. Box 2844 Calgary, AB T2P 3E3 Canada</Location>
+    <StockPrice>33.01</StockPrice>
+    <AnnualPrice>1</AnnualPrice>
+    <AvgWeeklyPrice></AvgWeeklyPrice>
+    <type>Energy</type>
+  </company>
+  
+  <company companyName="Enbridge Inc">
+    <Location>3000 425 - 1st Street S.W. CALGARY, AB T2P 3L8 Canada</Location>
+    <StockPrice>38.11</StockPrice>
+    <AnnualPrice>1</AnnualPrice>
+    <AvgWeeklyPrice></AvgWeeklyPrice>
+    <type>Energy</type>
+  </company>
+  <company companyName="Husky">
+    <Location>707 - 8th Avenue SW Box 6525, Station D Calgary, AB T2P 3G7 Canada</Location>
+    <StockPrice>26.03</StockPrice>
+    <AnnualPrice>1</AnnualPrice>
+    <AvgWeeklyPrice></AvgWeeklyPrice>
+    <type>Energy</type>
+  </company>
+</catalog>
+  

@@ -1,0 +1,15 @@
+C:\Assingment3\StockService\StockService\bin\StockService.dll
+C:\Assingment3\StockService\StockService\bin\StockService.pdb
+C:\Assingment3\StockService\StockService\obj\Debug\ResolveAssemblyReference.cache
+C:\Assingment3\StockService\StockService\obj\Debug\StockService.dll
+C:\Assingment3\StockService\StockService\obj\Debug\StockService.pdb
+G:\Assingment3\StockService\StockService\obj\Debug\ResolveAssemblyReference.cache
+G:\Assingment3\StockService\StockService\obj\Debug\StockService.dll
+G:\Assingment3\StockService\StockService\obj\Debug\StockService.pdb
+G:\Assingment3\StockService\StockService\bin\StockService.dll
+G:\Assingment3\StockService\StockService\bin\StockService.pdb
+H:\Assingment3\StockService\StockService\bin\StockService.dll
+H:\Assingment3\StockService\StockService\bin\StockService.pdb
+H:\Assingment3\StockService\StockService\obj\Debug\ResolveAssemblyReference.cache
+H:\Assingment3\StockService\StockService\obj\Debug\StockService.dll
+H:\Assingment3\StockService\StockService\obj\Debug\StockService.pdb
